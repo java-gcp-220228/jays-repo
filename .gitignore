@@ -1,3 +1,3 @@
 # gitignore for ignoring files
 *.iml
-/out
+/out/
