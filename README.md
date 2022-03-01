@@ -1,3 +1,3 @@
 # jays-repo
 
-Reposity for Revature training
+Repo for Revature training
